@@ -7,4 +7,4 @@ master update
 fixUpdate
 githubInsert
 
-demo2
+cui
